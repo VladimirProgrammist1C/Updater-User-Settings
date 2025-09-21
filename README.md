@@ -76,6 +76,5 @@
 
 ## Примеры ошибок при попытке выполнить запрещенные действия с базой данных
 
-<video controls src="20250921-0835-55.0876094.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/acae36c2-e1aa-438c-8bbb-78bd6afaf69d
 
-/ыв
