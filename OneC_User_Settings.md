@@ -50,14 +50,4 @@
 Должна открыться база 1С под служебным пользователем "Обновлятор 1С". Можете проверить - вы не найдете его в справочнике "Пользователи".
 ![alt text](13_ТонкийКлиентПодСлужебнымПользователем.png)
 
-Демонстрацию на видео можете посмотреть в [сообществе в VK "Автоматизация бизнес-процессов"](https://vk.com/club230942526) или в VK Video и Rutube
-
----
-
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-230942526&id=456239025&hd=3" width="1280" height="720" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
-Видео в VK
-
----
-<iframe width="1280" height="720" src="https://rutube.ru/play/embed/632250d5991aadda614d991ce80ab386/" style="border: none;" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-На Rutube
+Демонстрацию на видео можете посмотреть в [сообществе в VK "Автоматизация бизнес-процессов"](https://vk.com/club230942526).
