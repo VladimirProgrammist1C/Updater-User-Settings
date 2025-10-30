@@ -5,8 +5,9 @@
 
 ## [Настройки пользователя в 1С](https://github.com/VladimirProgrammist1C/Updater-User-Settings/blob/main/OneC_User_Settings.md)
 
-## Настройки пользователя СУБД (MS SQL Server 19)
+## [Настройки пользователя СУБД (MS SQL Server 19)](https://github.com/VladimirProgrammist1C/Updater-User-Settings/blob/main/MSSQL_User_Settings.md)
 
 ## Настройки пользователя СУБД (Postgre SQL 16)
+
 
 
